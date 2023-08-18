@@ -1,5 +1,6 @@
-# GPTProject
-Fully responsive frontend project made using React Js , CSS
+<h1 align="center">Web Project</h1>
+<h3 align="center">Fully responsive frontend project made using React Js , CSS</h3>
+
 ![ai](https://github.com/namanSingh101/GPTProject/assets/141719809/4df3bdcd-f18b-43e9-80a5-88ba14a352ad)
 
 <img width="1390" alt="Screenshot 2023-08-18 at 2 45 22 PM" src="https://github.com/namanSingh101/GPTProject/assets/141719809/ee475f7a-e15b-4742-b982-777167108c3c">
